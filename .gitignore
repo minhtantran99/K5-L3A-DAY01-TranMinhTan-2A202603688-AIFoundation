@@ -1,0 +1,18 @@
+# Credentials and local Python environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Editor/runtime files
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local archives; submit notebook outputs and reports normally
+*.zip
